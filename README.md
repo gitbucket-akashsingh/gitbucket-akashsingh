@@ -1,51 +1,88 @@
-## Hi there 👋
-
-<!--
-**gitbucket-akashsingh/gitbucket-akashsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Akash 👋
 
 Full-Stack Developer focused on scalable backend systems, frontend engineering, DevOps, and production-grade application architecture.
 
-## About Me
+---
 
-- Building AllRide — a production-style ride booking platform
-- Learning scalable system design and microservices architecture
-- Exploring DevOps, CI/CD, Docker, Kubernetes, and cloud systems
-- Passionate about understanding how real engineering organizations build software
+# 🚀 Current Focus
 
-## Tech Stack
+Currently building **AllRide** — a production-style ride booking platform inspired by real-world engineering systems.
 
-### Frontend
+Learning and exploring:
+
+- System Design
+- Microservices Architecture
+- Real-Time Systems
+- DevOps & CI/CD
+- Docker & Kubernetes
+- Scalable Backend Engineering
+- Frontend Architecture
+- Production Workflows
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
 - React
 - Next.js
 - TypeScript
 - Tailwind CSS
 
-### Backend
+## Backend
 - Java
 - Spring Boot
 - Node.js
-- Express
+- Express.js
 
-### Database
+## Database
 - PostgreSQL
 - MongoDB
 - Redis
 
-### DevOps & Infrastructure
+## DevOps & Infrastructure
 - Docker
 - GitHub Actions
 - Nginx
-- Kubernetes (learning)
+- Kubernetes (Learning)
+
+---
+
+# 🚖 Featured Project — AllRide
+
+Production-style ride booking platform designed with:
+
+- Monorepo architecture
+- Microservices planning
+- Real-time ride lifecycle
+- Authentication & RBAC
+- API Gateway architecture
+- CI/CD workflows
+- Infrastructure planning
+- Engineering documentation
+
+---
+
+# 📚 Engineering Interests
+
+- Scalable System Design
+- Distributed Systems
+- Backend Architecture
+- DevOps Engineering
+- Cloud Infrastructure
+- Software Engineering Workflows
+- Performance Optimization
+
+---
+
+# 📈 Current Goal
+
+Building projects that simulate real production engineering environments and learning how modern software organizations build scalable systems.
+
+---
+
+# 🤝 Connect
+
+- GitHub: https://github.com/gitbucket-akashsingh
+- LinkedIn: 
+- Portfolio: 
