@@ -17,3 +17,35 @@ Here are some ideas to get you started:
 # Hi, I'm Akash 👋
 
 Full-Stack Developer focused on scalable backend systems, frontend engineering, DevOps, and production-grade application architecture.
+
+## About Me
+
+- Building AllRide — a production-style ride booking platform
+- Learning scalable system design and microservices architecture
+- Exploring DevOps, CI/CD, Docker, Kubernetes, and cloud systems
+- Passionate about understanding how real engineering organizations build software
+
+## Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Java
+- Spring Boot
+- Node.js
+- Express
+
+### Database
+- PostgreSQL
+- MongoDB
+- Redis
+
+### DevOps & Infrastructure
+- Docker
+- GitHub Actions
+- Nginx
+- Kubernetes (learning)
