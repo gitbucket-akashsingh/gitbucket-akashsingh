@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Akash 👋
+
+Full-Stack Developer focused on scalable backend systems, frontend engineering, DevOps, and production-grade application architecture.
